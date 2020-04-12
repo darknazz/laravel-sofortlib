@@ -1,5 +1,5 @@
 {
-    "name": "codedge/laravel-sofortlib",
+    "name": "darknazz/laravel-sofortlib",
     "description" : "Laravel 5 package for use with SofortLib/SOFORT API, provides a facade to work with.",
     "license": "MIT",
     "keywords": [
