@@ -1,4 +1,4 @@
-# Laravel 5 Facade for the Sofortlib
+# Laravel 5/6 Facade for the Sofortlib
 This repository implements a simple [ServiceProvider](https://laravel.com/docs/master/providers)
 that creates a singleton instance of the Sofortlib client easily accessible via a [Facade](https://laravel.com/docs/master/facades) in [Laravel 5](http://laravel.com).  
 See [@SofortLib](https://github.com/sofort/sofortlib-php) for more information about the usage.
